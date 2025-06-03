@@ -1,3 +1,6 @@
+// This application is a standalone frontend application
+// and does not require or use any external API keys,
+// including a Gemini API key, for its core functionality.
 
 import React, { useState, useEffect, useCallback } from 'react';
 import { NumberButton } from './components/NumberButton';
